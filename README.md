@@ -3,7 +3,7 @@ Priscilla Valverde Alvarez
 Juan Jose Aguirre Marin
 Ana Laura Toledo
 Diego Alejandro Rivera Montano
-Max Tinka
+Max Tinka.
 
 
 README file Week_02
